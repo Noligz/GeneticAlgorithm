@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex1", "Ex1\Ex1.vcxproj", "{D78E3A2D-ECCC-4A26-806F-FED9DE12421B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GALib", "ga\GALib.vcxproj", "{4DA87F46-3840-49B0-B5AA-EA7BEEF6010A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex2", "Ex2\Ex2.vcxproj", "{CCB28164-2790-4055-AC27-2FE65C9B7032}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Optimization", "Optimization\Optimization.vcxproj", "{5E047A87-B27E-42EA-AD37-6AB6F1D7704F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78E3A2D-ECCC-4A26-806F-FED9DE12421B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D78E3A2D-ECCC-4A26-806F-FED9DE12421B}.Debug|Win32.Build.0 = Debug|Win32
+		{D78E3A2D-ECCC-4A26-806F-FED9DE12421B}.Release|Win32.ActiveCfg = Release|Win32
+		{D78E3A2D-ECCC-4A26-806F-FED9DE12421B}.Release|Win32.Build.0 = Release|Win32
+		{4DA87F46-3840-49B0-B5AA-EA7BEEF6010A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DA87F46-3840-49B0-B5AA-EA7BEEF6010A}.Debug|Win32.Build.0 = Debug|Win32
+		{4DA87F46-3840-49B0-B5AA-EA7BEEF6010A}.Release|Win32.ActiveCfg = Release|Win32
+		{4DA87F46-3840-49B0-B5AA-EA7BEEF6010A}.Release|Win32.Build.0 = Release|Win32
+		{CCB28164-2790-4055-AC27-2FE65C9B7032}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCB28164-2790-4055-AC27-2FE65C9B7032}.Debug|Win32.Build.0 = Debug|Win32
+		{CCB28164-2790-4055-AC27-2FE65C9B7032}.Release|Win32.ActiveCfg = Release|Win32
+		{CCB28164-2790-4055-AC27-2FE65C9B7032}.Release|Win32.Build.0 = Release|Win32
+		{5E047A87-B27E-42EA-AD37-6AB6F1D7704F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E047A87-B27E-42EA-AD37-6AB6F1D7704F}.Debug|Win32.Build.0 = Debug|Win32
+		{5E047A87-B27E-42EA-AD37-6AB6F1D7704F}.Release|Win32.ActiveCfg = Release|Win32
+		{5E047A87-B27E-42EA-AD37-6AB6F1D7704F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
